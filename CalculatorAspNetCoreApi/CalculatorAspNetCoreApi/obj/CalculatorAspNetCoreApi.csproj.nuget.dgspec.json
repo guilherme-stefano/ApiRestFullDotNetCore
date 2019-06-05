@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Guilherme\\source\\repos\\CalculatorAspNetCoreApi\\CalculatorAspNetCoreApi\\CalculatorAspNetCoreApi.csproj": {}
+    "C:\\Users\\Guilherme\\source\\ApiRestFullDotNetCore\\CalculatorAspNetCoreApi\\CalculatorAspNetCoreApi\\CalculatorAspNetCoreApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Guilherme\\source\\repos\\CalculatorAspNetCoreApi\\CalculatorAspNetCoreApi\\CalculatorAspNetCoreApi.csproj": {
+    "C:\\Users\\Guilherme\\source\\ApiRestFullDotNetCore\\CalculatorAspNetCoreApi\\CalculatorAspNetCoreApi\\CalculatorAspNetCoreApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Guilherme\\source\\repos\\CalculatorAspNetCoreApi\\CalculatorAspNetCoreApi\\CalculatorAspNetCoreApi.csproj",
+        "projectUniqueName": "C:\\Users\\Guilherme\\source\\ApiRestFullDotNetCore\\CalculatorAspNetCoreApi\\CalculatorAspNetCoreApi\\CalculatorAspNetCoreApi.csproj",
         "projectName": "CalculatorAspNetCoreApi",
-        "projectPath": "C:\\Users\\Guilherme\\source\\repos\\CalculatorAspNetCoreApi\\CalculatorAspNetCoreApi\\CalculatorAspNetCoreApi.csproj",
+        "projectPath": "C:\\Users\\Guilherme\\source\\ApiRestFullDotNetCore\\CalculatorAspNetCoreApi\\CalculatorAspNetCoreApi\\CalculatorAspNetCoreApi.csproj",
         "packagesPath": "C:\\Users\\Guilherme\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Guilherme\\source\\repos\\CalculatorAspNetCoreApi\\CalculatorAspNetCoreApi\\obj\\",
+        "outputPath": "C:\\Users\\Guilherme\\source\\ApiRestFullDotNetCore\\CalculatorAspNetCoreApi\\CalculatorAspNetCoreApi\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -12,3 +12,17 @@ C:\Users\Guilherme\source\repos\CalculatorAspNetCoreApi\CalculatorAspNetCoreApi\
 C:\Users\Guilherme\source\repos\CalculatorAspNetCoreApi\CalculatorAspNetCoreApi\obj\Debug\netcoreapp2.2\CalculatorAspNetCoreApi.RazorTargetAssemblyInfo.cache
 C:\Users\Guilherme\source\repos\CalculatorAspNetCoreApi\CalculatorAspNetCoreApi\obj\Debug\netcoreapp2.2\CalculatorAspNetCoreApi.dll
 C:\Users\Guilherme\source\repos\CalculatorAspNetCoreApi\CalculatorAspNetCoreApi\obj\Debug\netcoreapp2.2\CalculatorAspNetCoreApi.pdb
+C:\Users\Guilherme\source\ApiRestFullDotNetCore\CalculatorAspNetCoreApi\CalculatorAspNetCoreApi\obj\Debug\netcoreapp2.2\CalculatorAspNetCoreApi.csprojAssemblyReference.cache
+C:\Users\Guilherme\source\ApiRestFullDotNetCore\CalculatorAspNetCoreApi\CalculatorAspNetCoreApi\obj\Debug\netcoreapp2.2\CalculatorAspNetCoreApi.csproj.CoreCompileInputs.cache
+C:\Users\Guilherme\source\ApiRestFullDotNetCore\CalculatorAspNetCoreApi\CalculatorAspNetCoreApi\obj\Debug\netcoreapp2.2\CalculatorAspNetCoreApi.RazorAssemblyInfo.cache
+C:\Users\Guilherme\source\ApiRestFullDotNetCore\CalculatorAspNetCoreApi\CalculatorAspNetCoreApi\obj\Debug\netcoreapp2.2\CalculatorAspNetCoreApi.RazorAssemblyInfo.cs
+C:\Users\Guilherme\source\ApiRestFullDotNetCore\CalculatorAspNetCoreApi\CalculatorAspNetCoreApi\obj\Debug\netcoreapp2.2\CalculatorAspNetCoreApi.AssemblyInfoInputs.cache
+C:\Users\Guilherme\source\ApiRestFullDotNetCore\CalculatorAspNetCoreApi\CalculatorAspNetCoreApi\obj\Debug\netcoreapp2.2\CalculatorAspNetCoreApi.AssemblyInfo.cs
+C:\Users\Guilherme\source\ApiRestFullDotNetCore\CalculatorAspNetCoreApi\CalculatorAspNetCoreApi\obj\Debug\netcoreapp2.2\CalculatorAspNetCoreApi.dll
+C:\Users\Guilherme\source\ApiRestFullDotNetCore\CalculatorAspNetCoreApi\CalculatorAspNetCoreApi\obj\Debug\netcoreapp2.2\CalculatorAspNetCoreApi.pdb
+C:\Users\Guilherme\source\ApiRestFullDotNetCore\CalculatorAspNetCoreApi\CalculatorAspNetCoreApi\bin\Debug\netcoreapp2.2\CalculatorAspNetCoreApi.deps.json
+C:\Users\Guilherme\source\ApiRestFullDotNetCore\CalculatorAspNetCoreApi\CalculatorAspNetCoreApi\bin\Debug\netcoreapp2.2\CalculatorAspNetCoreApi.runtimeconfig.json
+C:\Users\Guilherme\source\ApiRestFullDotNetCore\CalculatorAspNetCoreApi\CalculatorAspNetCoreApi\bin\Debug\netcoreapp2.2\CalculatorAspNetCoreApi.runtimeconfig.dev.json
+C:\Users\Guilherme\source\ApiRestFullDotNetCore\CalculatorAspNetCoreApi\CalculatorAspNetCoreApi\bin\Debug\netcoreapp2.2\CalculatorAspNetCoreApi.dll
+C:\Users\Guilherme\source\ApiRestFullDotNetCore\CalculatorAspNetCoreApi\CalculatorAspNetCoreApi\bin\Debug\netcoreapp2.2\CalculatorAspNetCoreApi.pdb
+C:\Users\Guilherme\source\ApiRestFullDotNetCore\CalculatorAspNetCoreApi\CalculatorAspNetCoreApi\obj\Debug\netcoreapp2.2\CalculatorAspNetCoreApi.RazorTargetAssemblyInfo.cache
