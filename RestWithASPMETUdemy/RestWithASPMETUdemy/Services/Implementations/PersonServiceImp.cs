@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Threading;
 using System.Threading.Tasks;
 using RestWithASPMETUdemy.Model;
 
@@ -15,7 +16,7 @@ namespace RestWithASPMETUdemy.Services.Implementations
             return person;
         }
 
-        public List<Person> FindAll(Person person)
+        public List<Person> FindAll()
         {
             List<Person> persons = new List<Person>();
 
@@ -63,7 +64,7 @@ namespace RestWithASPMETUdemy.Services.Implementations
 
         public long IncrementAndGet()
         {
-            return Interlocked.Increment(ref count)
+            return Interlocked.Increment(ref count);
         }
     }
 }
