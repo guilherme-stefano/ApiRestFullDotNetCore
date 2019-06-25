@@ -6,15 +6,15 @@ using System.Threading.Tasks;
 using RestWithASPMETUdemy.Model;
 using RestWithASPMETUdemy.Model.Context;
 
-namespace RestWithASPMETUdemy.Services.Implementations
+namespace RestWithASPMETUdemy.Service.Implementations
 {
     
-    public class PersonServiceImp : IPersonService
+    public class PersonRepositoryImp : IPersonRepository
     {
         private MySQLContext _context;
         private volatile int count;
 
-        public PersonServiceImp(MySQLContext context)
+        public PersonRepositoryImp(MySQLContext context)
         {
             _context = context;
         }

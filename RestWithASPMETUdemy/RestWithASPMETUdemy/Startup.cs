@@ -12,7 +12,8 @@ using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Logging;
 using Microsoft.Extensions.Options;
 using RestWithASPMETUdemy.Model.Context;
-using RestWithASPMETUdemy.Services.Implementations;
+using RestWithASPMETUdemy.Business.Implementations;
+using RestWithASPMETUdemy.Service.Implementations;
 
 namespace RestWithASPMETUdemy
 {
@@ -33,7 +34,8 @@ namespace RestWithASPMETUdemy
             services.AddDbContext<MySQLContext>(options => options.UseMySql(connection));
             services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_2);
 
-            services.AddScoped<IPersonService, PersonServiceImp>();
+            services.AddScoped<IPersonBusiness, PersonBusinessImp>();
+            services.AddScoped<IPersonRepository, PersonRepositoryImp>();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
